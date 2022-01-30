@@ -1572,7 +1572,7 @@ hr{
     /* background:linear-gradient( rgba(4, 9, 30,0.7),rgba(4, 9, 30,0.7) ), url(/bulb.jpg) center center/ cover; */
     background: linear-gradient(
         316deg
-        , rgb(80 216 215 / 25%) 0%, rgb(42 35 35 / 55%) 74%), url(/bulb.jpg) center center / cover;
+        , rgb(80 216 215 / 25%) 0%, rgb(42 35 35 / 55%) 74%), url(bulb.jpg) center center / cover;
 }
 .electric h3{
     color:white;
